@@ -38,8 +38,3 @@ The dataset includes the following columns:
 - Normalized continuous weather features using `StandardScaler`.
 
 ---
-
-## 🤖 Model: Random Forest Regressor
-
-```python
-RandomForestRegressor(n_estimators=100, random_state=42)
